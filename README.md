@@ -123,10 +123,10 @@ ENGINE=InnoDB
 
 # Trained fastText Model
 This fastText model is trained over 1M reviews. You can use this model to classify the statements into 3 basic categories:
-###Positive - 1
-###Negative - -1
-###Neutral - 0
+### Positive - 1
+### Negative - -1
+### Neutral - 0
 
 You can find the bin file in Sentiment-Analysis-Using-Facebook-FastText\fastText-0.1.0 with the name of reviews_model.bin
 
-##Please let me know if you face any issue with the .bin file.
+## Please let me know if you face any issue with the .bin file.
